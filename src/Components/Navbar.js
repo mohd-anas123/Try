@@ -1,4 +1,4 @@
-// import React from "react";
+import React from "react";
 function Navbar() {
     const lorem_ipsum = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     const lorem_ipsum_short = "lorem ipsum"
